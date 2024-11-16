@@ -8,6 +8,7 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 
 ## About Me
 - 🎓 Pursuing a Master’s degree in Industrial Automation Engineering at the University of Brescia.
+- 🏆 Completed a Bachelor’s degree program in Industrial Automation Engineering.
 - 🤖 Passionate about integrating machine learning and AI into industrial applications.
 - 🔍 Interested in control systems, automation technologies, and innovative AI solutions.
 - 🤝 Open to collaborations on AI-driven automation and robotics projects.
@@ -34,7 +35,7 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 
 ## Technical Skills
 - **Programming Languages**: MATLAB, Python, C/C++, Java  
-- **Machine Learning & AI**: Experienced in applying ML algorithms for data analysis and optimization.  
+- **AI & Machine Learning **: Experienced in applying ML algorithms and AI.  
 - **Tools & Frameworks**: MATLAB/Simulink, Image Processing Toolbox, Microsoft Office Suite.
 
 ---
