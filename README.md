@@ -17,7 +17,7 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 ## Featured Projects
 - 💉 **Automatic Control of Anesthesia**  
   Developed machine learning models to optimize anesthesia control systems, improving patient safety and operational efficiency.  
-  [GitHub Repository](https://github.com/maedmatt/automaticControlAnesthesia) | [ACTIVA Project](https://activa.unibs.it)
+  [GitHub Repository](https://github.com/maedmatt/TesiMachineLearningAnestesia) | [ACTIVA Project](https://activa.unibs.it)
 
 - 🧪 **Liquid Level Detection Vision System**  
   Designed and implemented a MATLAB-based vision system for accurate liquid level detection in industrial containers.  
