@@ -1,4 +1,4 @@
-# 🚀👋 Ciao, I'm Matteo! 🤖✨
+# 🚀👋 Hello, I'm Matteo! 🤖✨
 
 **Master’s Student in Industrial Automation Engineering | AI and Automation Enthusiast**
 
