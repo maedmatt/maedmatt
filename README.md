@@ -1,4 +1,4 @@
-# 🚀👋 Ciao, I'm Matteo Calabria! 🤖✨
+# 🚀👋 Ciao, I'm Matteo! 🤖✨
 
 **Master’s Student in Industrial Automation Engineering | AI and Automation Enthusiast**
 
