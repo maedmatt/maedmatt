@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Matteo Calabria!
+# 🚀👋 Hello, I'm Matteo Calabria! 🤖✨
 
 **Master’s Student in Industrial Automation Engineering | AI and Automation Enthusiast**
 
@@ -42,4 +42,4 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 
 ---
 
-Feel free to explore my repositories and reach out for collaborations or discussions about automation and AI!
+Feel free to explore my repositories and reach out for collaborations or discussions about automation and AI! 🚀💡
