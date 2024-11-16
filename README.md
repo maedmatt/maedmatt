@@ -23,6 +23,10 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
   Designed and implemented a MATLAB-based vision system for accurate liquid level detection in industrial containers.  
   [GitHub Repository](https://github.com/maedmatt/liquidLevelDetection)
 
+- ✋ **Hand Gesture Recognition (MacOS Compatible)**  
+  Created a system for recognizing hand gestures using machine learning and computer vision techniques, with adaptations for MacOS compatibility. This project demonstrates potential applications in gesture-based control interfaces.  
+  [GitHub Repository](https://github.com/maedmatt/handRecognition2025)
+
 - ⚙️ **Feasibility Study for Robotic Cells**  
   Conducted a feasibility study for robotic cell integration and designed custom electrical panels during my time at Dan Di De Antoni S.r.l.
 
