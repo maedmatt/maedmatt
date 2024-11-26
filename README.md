@@ -35,7 +35,7 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 
 ## Technical Skills
 - **Programming Languages**: MATLAB, Python, C/C++, Java  
-- **AI & Machine Learning **: Experienced in applying ML algorithms and AI.  
+- **AI & Machine Learning**: Experienced in applying ML algorithms and AI.  
 - **Tools & Frameworks**: MATLAB/Simulink, Image Processing Toolbox, Microsoft Office Suite.
 
 ---
