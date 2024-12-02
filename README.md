@@ -16,6 +16,15 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 ---
 
 ## Featured Projects
+
+- 🧍 **Action Recognition**  
+  Developed a system for recognizing human actions, leveraging pose estimation and machine learning algorithms to identify activities. Demonstrates potential applications in robotics and automation.
+  [GitHub Repository](https://github.com/maedmatt/actionRecognition2025)
+  
+- ✋ **Hand Gesture Recognition (MacOS Compatible)**  
+  Created a system for recognizing hand gestures using machine learning and computer vision techniques, with adaptations for MacOS compatibility. This project demonstrates potential applications in gesture-based control interfaces.  
+  [GitHub Repository](https://github.com/maedmatt/handRecognition2025)
+  
 - 💉 **Automatic Control of Anesthesia**  
   Developed machine learning models to optimize anesthesia control systems, improving patient safety and operational efficiency.  
   [GitHub Repository](https://github.com/maedmatt/TesiMachineLearningAnestesia) | [ACTIVA Project](https://activa.unibs.it)
@@ -23,10 +32,6 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 - 🧪 **Liquid Level Detection Vision System**  
   Designed and implemented a MATLAB-based vision system for accurate liquid level detection in industrial containers.  
   [GitHub Repository](https://github.com/maedmatt/liquidLevelDetection)
-
-- ✋ **Hand Gesture Recognition (MacOS Compatible)**  
-  Created a system for recognizing hand gestures using machine learning and computer vision techniques, with adaptations for MacOS compatibility. This project demonstrates potential applications in gesture-based control interfaces.  
-  [GitHub Repository](https://github.com/maedmatt/handRecognition2025)
 
 - ⚙️ **Feasibility Study for Robotic Cells**  
   Conducted a feasibility study for robotic cell integration and designed custom electrical panels during my time at Dan Di De Antoni S.r.l.
