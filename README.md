@@ -19,8 +19,7 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 
 - 🧍 **Action Recognition**  
   Developed a system for recognizing human actions, leveraging pose estimation and machine learning algorithms to identify activities. Demonstrates potential applications in robotics and automation.
-  
-  [GitHub Repository](https://github.com/maedmatt/actionRecognition2025)
+[GitHub Repository](https://github.com/maedmatt/actionRecognition2025)
   
 - ✋ **Hand Gesture Recognition (MacOS Compatible)**  
   Created a system for recognizing hand gestures using machine learning and computer vision techniques, with adaptations for MacOS compatibility. This project demonstrates potential applications in gesture-based control interfaces.  
