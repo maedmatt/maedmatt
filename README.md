@@ -39,9 +39,10 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 ---
 
 ## Technical Skills
-- **Programming Languages**: MATLAB, Python, C/C++, Java  
-- **AI & Machine Learning**: Experienced in applying ML algorithms and AI.  
-- **Tools & Frameworks**: MATLAB/Simulink, Image Processing Toolbox, Data Analysis Toolbox, Microsoft Office Suite.
+- **Programming Languages**: Python, MATLAB, C/C++, Java  
+- **AI & Machine Learning**: Scikit-learn, TensorFlow, SciPy, OpenCV, MediaPipe
+- **Robotics**: ROS, SLAM, Motion Planning, Humanoid Locomotion
+- **Tools & Frameworks**: Git, Docker, Simulink, LaTeX
 
 ---
 
