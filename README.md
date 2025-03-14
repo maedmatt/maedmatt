@@ -15,27 +15,29 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 
 ---
 
+## Experience
+
+- 🏭 **Technical Office Assistant – Dan Di De Antoni S.r.l.**
+Automated documentation workflows, saving over 8 hours per week. Designed and prototyped three robotic cell concepts using CAD tools.
+---
+
 ## Featured Projects
 
+- 🚵 **Downhill Event Detection**  
+Developed a machine learning-based system for detecting downhill biking events from sensor data. Processed over 300k samples and achieved 80.6% classification accuracy using Weighted-KNN. Addressed class imbalance through bootstrapping and synthetic oversampling via the covariance matrix.
+
 - 🧍 **Action Recognition**  
-  Developed a system for recognizing human actions, leveraging pose estimation and machine learning algorithms to identify activities. Demonstrates potential applications in robotics and automation.  
-[GitHub Repository](https://github.com/maedmatt/actionRecognition2025)
-  
-- ✋ **Hand Gesture Recognition (MacOS Compatible)**  
-  Created a system for recognizing hand gestures using machine learning and computer vision techniques, with adaptations for MacOS compatibility. This project demonstrates potential applications in gesture-based control interfaces.  
-  [GitHub Repository](https://github.com/maedmatt/handRecognition2025)
+  Enhanced a pose estimation pipeline using OpenMMLab, achieving 89% accuracy on a custom dataset. Optimized for real-time inference on macOS hardware, overcoming compatibility challenges. Designed for human-robot collaboration applications.   
+[GitHub Repository](https://github.com/maedmatt/actionRecognition2025)  
   
 - 💉 **Automatic Control of Anesthesia**  
   Developed a machine learning-enhanced system within the ACTIVA Project, to predict BIS values and optimize intravenous anesthesia delivery, overcoming traditional closed-loop limitations and enhancing patient safety.  
   [GitHub Repository](https://github.com/maedmatt/TesiMachineLearningAnestesia) | [ACTIVA Project](https://activa.unibs.it)
 
 - 🧪 **Liquid Level Detection Vision System**  
-  Designed and implemented a MATLAB-based vision system for accurate liquid level detection in industrial containers.  
+  Developed a liquid level detection system that reduced manual inspections by 70%. Implemented adaptive thresholding for varying lighting conditions to ensure accuracy.  
   [GitHub Repository](https://github.com/maedmatt/liquidLevelDetection)
-
-- ⚙️ **Feasibility Study for Robotic Cells**  
-  Conducted a feasibility study for robotic cell integration and designed custom electrical panels during my time at Dan Di De Antoni S.r.l.
-
+  
 ---
 
 ## Technical Skills
