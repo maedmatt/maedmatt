@@ -21,7 +21,7 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 Automated documentation workflows, saving over 8 hours per week. Designed and prototyped three robotic cell concepts using CAD tools.
 ---
 
-## Featured Projects
+## Personal Projects
 
 - 🚵 **Downhill Event Detection**  
 Developed a machine learning-based system for detecting downhill biking events from sensor data. Processed over 300k samples and achieved 80.6% classification accuracy using Weighted-KNN. Addressed class imbalance through bootstrapping and synthetic oversampling via the covariance matrix.
