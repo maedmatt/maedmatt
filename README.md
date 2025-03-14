@@ -17,7 +17,7 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
 
 ## Experience
 
-- 🏭 **Technical Office Assistant – Dan Di De Antoni S.r.l.**
+- 🏭 **Technical Office Assistant – Dan Di De Antoni S.r.l.**  
 Automated documentation workflows, saving over 8 hours per week. Designed and prototyped three robotic cell concepts using CAD tools.
 ---
 
