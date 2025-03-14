@@ -26,7 +26,7 @@ Welcome to my GitHub! Here, you'll find projects showcasing my passion for autom
   [GitHub Repository](https://github.com/maedmatt/handRecognition2025)
   
 - 💉 **Automatic Control of Anesthesia**  
-  Developed machine learning models to optimize anesthesia control systems, improving patient safety and operational efficiency.  
+  Developed a machine learning-enhanced system within the ACTIVA Project (activa.unibs.it), to predict BIS values and optimize intravenous anesthesia delivery, overcoming traditional closed-loop limitations and enhancing patient safety. 
   [GitHub Repository](https://github.com/maedmatt/TesiMachineLearningAnestesia) | [ACTIVA Project](https://activa.unibs.it)
 
 - 🧪 **Liquid Level Detection Vision System**  
