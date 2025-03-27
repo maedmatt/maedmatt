@@ -42,8 +42,8 @@ Developed a machine learning-based system for detecting downhill biking events f
 
 ## Technical Skills
 - **Programming Languages**: Python, MATLAB, C/C++, Java  
-- **AI & Machine Learning**: Scikit-learn, TensorFlow, SciPy, OpenCV, MediaPipe
-- **Robotics**: ROS, SLAM, Motion Planning, Humanoid Locomotion
+- **AI & Machine Learning**: Scikit-learn, TensorFlow, OpenCV, MediaPipe
+- **Robotics**: ROS, Motion Planning, Humanoid Locomotion
 - **Tools & Frameworks**: Git, Docker, Simulink, LaTeX
 
 ---
