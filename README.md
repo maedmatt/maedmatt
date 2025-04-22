@@ -23,9 +23,9 @@ Welcome to my GitHub! Here, you'll find projects where I apply and explore my in
   *(Feb 2024 – Sep 2024)*
 
 - 🏭 **Technical Office Assistant – DAN TECHNOLOGY SRL**  
-    *Supported the technical office in automating internal documentation processes, reducing manual overhead by over 8 hours per week.  
-  Contributed to the design and prototyping of three robotic cell concepts using CAD tools, improving layout efficiency and production planning.  
-  Assisted with technical support, resolving more than 15 cases related to mechanical integration and documentation issues.   
+    Supported the technical office in automating internal documentation processes, reducing manual overhead by over 8 hours per week.  
+  Contributed to the design and prototyping of robotic cell concepts using CAD tools, improving layout efficiency and production planning.  
+  Assisted with technical support, resolving more than 15 cases related to technical integration and documentation issues.   
   *(Jan 2021 – Sep 2021)*
 
 ---
