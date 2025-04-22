@@ -2,57 +2,69 @@
 
 **Master’s Student in Industrial Automation Engineering | AI and Automation Enthusiast**
 
-Welcome to my GitHub! Here, you'll find projects showcasing my passion for automation, machine learning, and robotics.
+Welcome to my GitHub! Here, you'll find projects where I apply and explore my interests in robotics, computer vision, and AI.
 
 ---
 
-## About Me
-- 🎓 Pursuing a Master’s degree in Industrial Automation Engineering at the University of Brescia.
-- 🏆 Completed a Bachelor’s degree program in Industrial Automation Engineering.
-- 🤖 Passionate about integrating machine learning and AI into industrial applications.
-- 🔍 Interested in control systems, automation technologies, and innovative AI solutions.
-- 🤝 Open to collaborations on AI-driven automation and robotics projects.
+## 🎓 About Me
+
+- 🎓 Currently pursuing a Master’s degree in Industrial Automation Engineering at the **University of Brescia**
+- 🧑‍🎓 Bachelor's in Industrial Automation Engineering from the **University of Brescia** 
+- 🤖 Passionate about robotics, control systems, and AI — especially computer vision and deep learning  
+- 🔎 Actively seeking internship opportunities and open to collaboration on innovative projects  
 
 ---
 
-## Experience
+## 💼 Experience
 
-- 🏭 **Technical Office Assistant – Dan Di De Antoni S.r.l.**  
-Automated documentation workflows, saving over 8 hours per week. Designed and prototyped three robotic cell concepts using CAD tools.
----
+- 🧪 **Intern – University of Brescia**  
+  *Research Group on Control Systems*  
+  Developed a machine learning-enhanced system for the ACTIVA Project to predict BIS values and optimize anesthesia delivery. Improved safety by overcoming traditional control system limitations.  
+  *(Feb 2024 – Sep 2024)*
 
-## Personal Projects
-
-- 🚵 **Downhill Event Detection**  
-Developed a machine learning-based system for detecting downhill biking events from sensor data. Processed over 300k samples and achieved 80.6% classification accuracy using Weighted-KNN. Addressed class imbalance through bootstrapping and synthetic oversampling via the covariance matrix.
-
-- 🧍 **Action Recognition**  
-  Enhanced a pose estimation pipeline using OpenMMLab, achieving 89% accuracy on a custom dataset. Optimized for real-time inference on macOS hardware, overcoming compatibility challenges. Designed for human-robot collaboration applications.   
-[GitHub Repository](https://github.com/maedmatt/actionRecognition2025)  
-  
-- 💉 **Automatic Control of Anesthesia**  
-  Developed a machine learning-enhanced system within the ACTIVA Project, to predict BIS values and optimize intravenous anesthesia delivery, overcoming traditional closed-loop limitations and enhancing patient safety.  
-  [GitHub Repository](https://github.com/maedmatt/TesiMachineLearningAnestesia) | [ACTIVA Project](https://activa.unibs.it)
-
-- 🧪 **Liquid Level Detection Vision System**  
-  Developed a liquid level detection system that reduced manual inspections by 70%. Implemented adaptive thresholding for varying lighting conditions to ensure accuracy.  
-  [GitHub Repository](https://github.com/maedmatt/liquidLevelDetection)
-  
----
-
-## Technical Skills
-- **Programming Languages**: Python, MATLAB, C/C++, Java  
-- **AI & Machine Learning**: Scikit-learn, TensorFlow, OpenCV, MediaPipe
-- **Robotics**: ROS, Motion Planning, Humanoid Locomotion
-- **Tools & Frameworks**: Git, Docker, Simulink, LaTeX
+- 🏭 **Technical Office Assistant – DAN TECHNOLOGY SRL**  
+  - Automated documentation workflows  
+  - Designed and prototyped robotic cell concepts in CAD  
+  - Resolved over 15 technical support cases  
+  *(Jan 2021 – Sep 2021)*
 
 ---
 
-## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/matteocalabria01)  
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-blue)](https://github.com/maedmatt)  
+## 🚀 Personal Projects
+
+- 📹 **Reolink Detect AI**  
+  A Python-based smart home security system using Reolink cameras, OpenCV, and YOLOv8. It reduces false alerts by combining motion detection with object detection and sends annotated alerts only when people or cars are detected.  
+  Includes support for multiple RTSP streams, real-time parallel processing, and dataset saving for model fine-tuning.  
+  🔗 [GitHub Repository](https://github.com/maedmatt/reolink-detect-ai)
+
+- 🚵 **Downhill Event Detection (ML)**  
+  Detected downhill biking events from time-series sensor data. Reached 80.6% accuracy using Weighted-KNN with synthetic oversampling for class balancing.  
+  🛠 Tech: MATLAB, Signal Processing, Bootstrapping
+
+- 🧍 **Action Recognition System**  
+  Real-time action recognition using OpenMMLab and OpenCV. Achieved 89% accuracy on a custom dataset and optimized inference for macOS devices.  
+  🔗 [GitHub Repository](https://github.com/maedmatt/actionRecognition2025)
+
+- 🧪 **Industrial Vision System**  
+  Built a system for liquid level detection that reduced manual inspection by 70%. Adaptive thresholding handled varying lighting conditions.  
+  🛠 Tech: MATLAB, Image Processing
+
+---
+
+## 🛠 Technical Skills
+
+| 🧰 Tools           | 💻 Languages          | 🧠 AI/ML Frameworks          | 🤖 Robotics       |
+|-------------------|-----------------------|------------------------------|-------------------|
+| Git, Docker, LaTeX, Simulink, Linux | Python 🐍, MATLAB, C/C++, Java ☕ | OpenCV, TensorFlow, Scikit-learn, MediaPipe | ROS, Motion Planning, Humanoid Locomotion |
+
+---
+
+## 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/matteocalabria01)  
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github)](https://github.com/maedmatt)  
 📧 **Email**: [matteo.calabria01@gmail.com](mailto:matteo.calabria01@gmail.com)
 
 ---
 
-Feel free to explore my repositories and reach out for collaborations or discussions about automation and AI! 🚀💡
+Thanks for visiting — feel free to explore my repositories or reach out if you're working on something cool! 🚀🤝
