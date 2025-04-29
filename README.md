@@ -59,8 +59,7 @@ Welcome to my GitHub! Here, you'll find projects where I apply and explore my in
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/matteocalabria01)  
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-blue?logo=github)](https://github.com/maedmatt)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/matteocalabria01)
 📧 **Email**: [matteo.calabria01@gmail.com](mailto:matteo.calabria01@gmail.com)
 
 ---
