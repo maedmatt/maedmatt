@@ -1,6 +1,6 @@
 # 🚀👋 Hello, I'm Matteo! 🤖✨
 
-**Master’s Student in Industrial Automation Engineering | AI and Automation Enthusiast**
+**M.S. in Industrial Automation Engineering | Reinforcement Learning, Deep Learning & Robotics**
 
 Welcome to my GitHub! Here, you'll find projects where I apply and explore my interests in robotics, computer vision, and AI.
 
