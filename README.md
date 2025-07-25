@@ -7,6 +7,6 @@ Currently at University of Brescia and starting a double degree at Sorbonne Univ
 I've been lucky to win a hackathon, place 2nd in a national competition, and attend some great summer schools along the way. Always excited to work on projects that make a difference! 🚀
 
 **Let's connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/matteocalabria01) • 📧 [matteo.calabria01@gmail.com](mailto:matteo.calabria01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/matteocalabria01)
 
 Feel free to explore my repos or reach out if you're working on something interesting!
