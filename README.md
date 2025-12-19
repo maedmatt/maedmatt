@@ -2,7 +2,7 @@
 
 **Master's student in Industrial Automation Engineering with a passion for humanoid robots** 🤖✨
 
-Currently at Sorbonne University 🇫🇷 for a double degree program. I have experience with robotics, reinforcement learning, deep learning, and VLMs/VLAs.
+Currently at Sorbonne University for a double degree program. I have experience with robotics, reinforcement learning, deep learning, and VLMs/VLAs.
 
 Outside of regular classes, I've attended summer schools, won a hackathon, and placed 2nd in a national competition.
 
