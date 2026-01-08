@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Matteo!
 
-**Master's student in Industrial Automation Engineering with a passion for humanoid robots** 🤖✨
+**Master's student in Industrial Automation Engineering working on humanoid robots** 🤖✨
 
 Currently at Sorbonne University for a double degree program. I have experience with robotics, reinforcement learning, deep learning, and VLMs/VLAs.
 
