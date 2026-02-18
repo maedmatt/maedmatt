@@ -1,8 +1,10 @@
 # 👋 Hey, I'm Matteo!
 
-**Master's student in Industrial Automation Engineering working on humanoid robots** 🤖✨
+**Research Intern at IDSIA USI-SUPSI, working on reinforcement learning for humanoid robotics**
 
-Currently at Sorbonne University for a double degree program. I have experience with robotics, reinforcement learning, deep learning, and VLMs/VLAs.
+Master's student in Industrial Automation Engineering (University of Brescia), with a double degree from Sorbonne Université in Robotics and Autonomous Systems.
+
+I work with reinforcement learning, deep learning, and VLMs/VLAs for embodied intelligence.
 
 Outside of regular classes, I've attended summer schools, won a hackathon, and placed 2nd in a national competition.
 
