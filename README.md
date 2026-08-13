@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Matteo!
 
-**Research Intern at IDSIA USI-SUPSI, working on reinforcement learning for humanoid robotics**
+**Research Assistant at ZHAW Centre for Artificial Intelligence (CAI), working on reinforcement learning for humanoid robotics**
 
 Master's student in Industrial Automation Engineering (University of Brescia), with a double degree from Sorbonne Université in Robotics and Autonomous Systems.
 
